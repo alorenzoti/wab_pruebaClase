@@ -1,0 +1,81 @@
+{
+  "bookmarks2D": [
+    {
+      "displayName": "Marroquina",
+      "name": "Marroquina",
+      "extent": {
+        "xmin": -406510.59269408026,
+        "ymin": 4925435.600281206,
+        "xmax": -405865.6552679785,
+        "ymax": 4925793.898851263,
+        "spatialReference": {
+          "wkid": 102100
+        },
+        "cache": {
+          "_parts": [
+            {
+              "extent": {
+                "xmin": -406510.59269408026,
+                "ymin": 4925435.600281206,
+                "xmax": -405865.6552679785,
+                "ymax": 4925793.898851263,
+                "spatialReference": {
+                  "wkid": 102100
+                }
+              },
+              "frameIds": [
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "thumbnail": "${appPath}/configs/Bookmark/thumbnail1615224770739.png",
+      "isInWebmap": false,
+      "isSaveLayers": false,
+      "layerOptions": {
+        "Red_Abastecimiento_4172": {
+          "selected": true
+        },
+        "Red_Abastecimiento_4277": {
+          "selected": true
+        },
+        "Red_Abastecimiento_5315": {
+          "selected": true
+        },
+        "Red_Abastecimiento_5613": {
+          "selected": true
+        },
+        "Red_Abastecimiento_9861": {
+          "selected": true
+        },
+        "Red_Abastecimiento_8707": {
+          "selected": true
+        },
+        "Red_Abastecimiento_651": {
+          "selected": true
+        },
+        "Red_Abastecimiento_502": {
+          "selected": true
+        },
+        "Red_Abastecimiento_6350": {
+          "selected": false
+        }
+      },
+      "_uID": 3,
+      "isSaveExtent": true
+    }
+  ],
+  "bookmarks3D": [],
+  "layout": {
+    "cards": true,
+    "list": false,
+    "defaultMode": "cards"
+  },
+  "editable": true,
+  "syncMode": {
+    "webmap": true,
+    "custom": true
+  },
+  "isSaveLayerVisibility": true
+}
